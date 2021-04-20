@@ -21,7 +21,10 @@
     display: table-cell; /* Make elements inside the container behave like table cells */
 } 
 
+.ordered {
+background-color: rgb(206, 147, 76);
 
+}
 
 /*
 @media only screen and (max-width: 576px) {
